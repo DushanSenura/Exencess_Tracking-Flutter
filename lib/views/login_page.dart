@@ -174,7 +174,7 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                   const SizedBox(height: 24),
                   Image.asset(
-                    'lib/assets/image/2.png',
+                    'lib/assets/image/NovaCore.png',
                     width: 150,
                     fit: BoxFit.contain,
                   ),
