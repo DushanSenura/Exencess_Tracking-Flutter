@@ -76,8 +76,6 @@ flutter:
   assets:
     - lib/assets/image/Expenso.png
     - lib/assets/image/NovaCore.png
-    - lib/assets/image/1.png
-    - lib/assets/image/2.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
